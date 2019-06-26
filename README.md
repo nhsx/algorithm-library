@@ -3,7 +3,7 @@ A list of algorithms and datasets curated by the community. NHSX is not responsi
 
 If you are interested in adding a link to this list, [please raise an issue](https://github.com/nhsx/algorithm-library/issues/new) or submit a Pull Request.
 # Disclaimer:
-The content of this site is not owned or endorsed by NHSx. 
+The content of links on this site are not owned or endorsed by NHSX. 
 It is your responsibility to use these resources appropriately.
 In particular:
 - Ensure robust practices and work within your skillset; insights from new technology are only as good as the data and practices used to create them. You must work within your skillset recognising where you do not have the skills or experience to use a particular approach or tool to a high standard.
